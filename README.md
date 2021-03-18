@@ -13,10 +13,10 @@ Mira **Deployment** para conocer como desplegar el proyecto.
 ## Hardware 🛠️
 
 ![Vista 3d del PCB](Images/image.png)
-![Top Layer](https://raw.githubusercontent.com/parzibyte/WaterPy/master/assets/ImagenV1.png)
-![Bottom Layer](https://raw.githubusercontent.com/parzibyte/WaterPy/master/assets/ImagenV1.png)
+![Top Layer](Images/IMG_20210317_223144.jpg)
+![Bottom Layer](Images/IMG_20210317_223657.jpg)
 
-_El diseño fue realizado en [Altium Designer](https://www.altium.com/es) _
+_El diseño fue realizado en [Altium Designer](https://www.altium.com/es)._
 
 
 ## Autor
